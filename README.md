@@ -1,4 +1,4 @@
-<img src="https://github.com/wooinwoo/zeno_plan/assets/89918246/09a437ce-dd58-434d-b7ad-fee5c4df1345" width="100%">
+<img src="https://github.com/wooinwoo/zeno_plan/assets/89918246/09a437ce-dd58-434d-b7ad-fee5c4df1345" width="50%">
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
